@@ -1,1 +1,2 @@
 # gitpractices
+hello everyone
